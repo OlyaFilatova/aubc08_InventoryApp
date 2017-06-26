@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="sale">Sold 1 product</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="save">save</string>
+    <string name="sales">Sales -</string>
+    <string name="order_more">Order more!</string>
+    <string name="enter_supplier_s_phone">Enter supplier\'s phone</string>
+    <string name="button_add">+</string>
+    <string name="button_remove">-</string>
+    <string name="shipments">Shipments -</string>
+    <string name="enter_price_of_the_product">Enter price of the product</string>
+    <string name="enter_name_of_the_product">Enter name of the product</string>
+    <string name="default_quantity">0</string>
+    <string name="create_product">Create Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="delete_all">Delete all</string>
+    <string name="delete_all_products">Delete all products?</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_products_deleted">Deleted no products</string>
+    <string name="deleted_n_products">Deleted %d products</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="discard_all_changes">Discard all changes an exit without saving?</string>
+    <string name="product_requares_a_name">Product requires a name</string>
+    <string name="product_requires_a_price">Product requires a price</string>
+    <string name="product_requires_quantity">Product requires quantity</string>
+    <string name="product_requires_supplier">Product requires supplier\'s contact</string>
+    <string name="delete_failed">Delete failed</string>
+    <string name="delete_successful">Delete successful</string>
+    <string name="delete_this_product">Delete this product?</string>
+    <string name="no_left">No left</string>
+    <string name="no_products">We found no products\n\nClick \"Add\" in the menu to add new product</string>
+    <string name="catalog">Catalog</string>
+</resources>
